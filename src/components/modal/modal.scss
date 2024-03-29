@@ -1,0 +1,22 @@
+dialog::backdrop {
+  background-color: hsla(0, 0%, 63%, 0.25);
+}
+
+dialog {
+  width: 768px;
+  border: none;
+  border-radius: 0.5em;
+}
+.dialog-header {
+  display: flex;
+  justify-content: space-between;
+
+  .modal-close-btn {
+    border: none;
+    background-color: white;
+  }
+
+  .modal-close-btn:hover {
+    cursor: pointer;
+  }
+}
