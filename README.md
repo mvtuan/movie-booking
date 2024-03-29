@@ -16,3 +16,6 @@
 - [ ] Missing footer
 - [ ] Missing smooth animations
 - [ ] The experience is quite annoying and not natural
+
+## Demo
+![demo](https://github.com/mvtuan/movie-booking/blob/master/public/demo.gif)
